@@ -763,7 +763,7 @@ private logError(msg){
 * Version: 0.3.4
 *   Added Armed Away and Armed Home States, including HSM instructions
 *   Added Polling Rate - Default State is Disabled
-*   If poling is enabled, it should recover from an Envisalink reboot within two time intervals
+*   If polling is enabled, it should recover from an Envisalink reboot within two time intervals
 *   Added Status Report on initialize to re-sync Alarm State
 *   Fixed autoInactive value from 0 to disabled, to resolve motion sensor errors
 *
